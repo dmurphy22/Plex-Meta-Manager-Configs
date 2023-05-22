@@ -11,6 +11,8 @@ collections:
     collection_order: custom
     sync_mode: sync
     tmdb_discover:
+      vote_count.gte: 20
+      with_original_language: en
       sort_by: popularity.desc
       limit: 500
     limit: 50
