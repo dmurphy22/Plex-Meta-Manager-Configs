@@ -10,6 +10,7 @@ collections:
     collection_order: custom
     sync_mode: sync
     tmdb_discover:
+      with_original_language: en
       sort_by: vote_average.desc
       release_date.gte: 01/01/1930
       release_date.lte: 12/31/1939
@@ -21,6 +22,7 @@ collections:
     collection_order: custom
     sync_mode: sync
     tmdb_discover:
+      with_original_language: en
       sort_by: vote_average.desc
       release_date.gte: 01/01/1940
       release_date.lte: 12/31/1949
@@ -32,6 +34,7 @@ collections:
     collection_order: custom
     sync_mode: sync
     tmdb_discover:
+      with_original_language: en
       sort_by: vote_average.desc
       release_date.gte: 01/01/1950
       release_date.lte: 12/31/1959
@@ -43,6 +46,7 @@ collections:
     collection_order: custom
     sync_mode: sync
     tmdb_discover:
+      with_original_language: en
       sort_by: vote_average.desc
       release_date.gte: 01/01/1960
       release_date.lte: 12/31/1969
@@ -54,6 +58,7 @@ collections:
     collection_order: custom
     sync_mode: sync
     tmdb_discover:
+      with_original_language: en
       sort_by: vote_average.desc
       release_date.gte: 01/01/1970
       release_date.lte: 12/31/1979
@@ -65,6 +70,7 @@ collections:
     collection_order: custom
     sync_mode: sync
     tmdb_discover:
+      with_original_language: en
       sort_by: vote_average.desc
       release_date.gte: 01/01/1980
       release_date.lte: 12/31/1989
@@ -76,6 +82,7 @@ collections:
     collection_order: custom
     sync_mode: sync
     tmdb_discover:
+      with_original_language: en
       sort_by: vote_average.desc
       release_date.gte: 01/01/1990
       release_date.lte: 12/31/1999
@@ -87,6 +94,7 @@ collections:
     collection_order: custom
     sync_mode: sync
     tmdb_discover:
+      with_original_language: en
       sort_by: vote_average.desc
       release_date.gte: 01/01/2000
       release_date.lte: 12/31/2009
@@ -98,6 +106,7 @@ collections:
     collection_order: custom
     sync_mode: sync
     tmdb_discover:
+      with_original_language: en
       sort_by: vote_average.desc
       release_date.gte: 01/01/2010
       release_date.lte: 12/31/2019
